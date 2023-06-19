@@ -1,10 +1,9 @@
+<img align="center" src="68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663.gif" alt="GIF" >
+
 <h1 align="center">Hi 👋, I'm Ash</h1>
 <h3 align="center">I'm a full-stack web developer with expertise in data analytics and machine learning. I also have experience in image and vector graphic editing.</h3>
 
-
 <img align="right" src="https://media.giphy.com/media/26Do5zS7YVa6Ebh9C/giphy.gif" alt="GIF" width="200">
-![GIF](C:\Users\ASHVYN\Desktop\68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663.gif)
-<!--C:\Users\ASHVYN\Desktop\Grren Hello March Banner 2.png"-->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash-the-coder&label=Profile%20views&color=0e75b6&style=flat" alt="ash-the-coder" /> </p>
