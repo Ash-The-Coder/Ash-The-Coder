@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash-the-coder&label=Profile%20views&color=0e75b6&style=flat" alt="ash-the-coder" /> </p>
 
-- 👨‍💻 All of my projects are available at [ash-the-coder.github.io](ash-the-coder.github.io)
+- 👨‍💻 All of my projects are available at [ash-the-coder.github.io](https://ash-the-coder.github.io)
 
 - ⚡ Fun fact : **Did you know that smiling is contagious? Research has shown that seeing someone smile activates the mirror neurons in our brain, making us more likely to smile as well. So, remember to share your smile with others—it's a simple act that can spread happiness!**
 
