@@ -1,3 +1,6 @@
+
+<img src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="GitHub README Header" style="width: 1000px; height: 300px; ">
+
 <h1 align="center">Hi 👋, I'm Ash</h1>
 <h3 align="center">I'm a full-stack web developer with expertise in data analytics and machine learning. I also have experience in image and vector graphic editing.</h3>
 
@@ -9,9 +12,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ash-code-1111b5247" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white" alt="Linkedin link" /></a>
 </p>
-
-
-
 
 ## Programming Languages
 
